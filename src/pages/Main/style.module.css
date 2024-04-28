@@ -1,0 +1,4 @@
+.container {
+    font-family: "Open Sans", sans-serif;
+    @apply w-full h-auto flex flex-col items-center overflow-x-clip ;
+}
